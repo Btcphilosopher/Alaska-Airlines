@@ -1,0 +1,6 @@
+{
+  "name": "Alaska Airlines",
+  "description": "Next-generation Alaska Airlines mobile application featuring booking, loyalty, and real-time travel companion experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
